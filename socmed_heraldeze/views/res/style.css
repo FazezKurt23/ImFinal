@@ -1,0 +1,188 @@
+ body{
+    background-color: skyblue;
+    font-family: 'Calibir';
+    padding: 0px;
+}
+.reg-form{
+   background-image: url('https://static.vecteezy.com/system/resources/previews/065/530/991/non_2x/ai-robot-background-tech-bot-circuit-chip-technology-chatbot-chat-human-artificial-intelligence-concept-3d-interface-design-digital-software-conversation-voice-online-finance-business-vector.jpg');
+    width: 25%;
+    padding: 2em;
+    margin: 1em auto;
+    border-radius: 5px;
+     background-position: center;
+    background-repeat: no-repeat;
+     background-size: auto;
+    box-shadow: 2px 2px 25px 20px #116666;
+}
+input{
+    width: 95%;
+    margin: .8em auto;
+    margin-top: 0em;
+    padding: .5em .2em;
+}
+label{
+    font-size: .8em;
+    color: #fffefe;
+}
+input[type='submit']{
+    width: 97.7%;
+    background-color: #ee6666;
+    color: #fffefe;
+    outline: none;
+    border: none;
+    padding: .8em .2em;
+    border-radius: 2px;
+}    
+input[type='submit']:hover{
+    background-color: #aa4444;
+    color: #fffefe;
+}
+.nav{
+   background-color: #bbffff;
+   margin: 20px;
+   box-shadow: 2px 2px 5px 2px #ff00ff; 
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   border-radius: 20px;
+   max-height: 50px;
+}
+.nav-right{
+    display: block;
+    width: 20%;
+    margin-left: auto;
+}
+.nav-left{
+    display: inline-block;
+    width: 70%;
+    margin-right: auto;
+    text-align: left;
+}
+.nav-left ul{
+   list-style-type: none;
+   margin: 0px;
+}
+.nav-left li{
+    display: inline-block;
+    padding: 1em;
+}
+.nav-left li:hover{
+    background-color: #abefef;
+}
+.logo{
+    background-image: url('Picture1.png');
+    background-size: 35px 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.nav-right ul{
+    list-style-type: none;
+}
+.nav-right li{
+   display: inline-block;
+   padding:1em;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+.title{
+    text-align: center;
+    color: #abefef;
+    fontsize: 1em;
+}
+.alert  {
+    text-align: center;
+    color: #ee6666;
+    fontsize: 1em;
+}
+.container{
+    position: relative;
+    margin: 1em auto;
+    min-heigt: 40vh;
+    min-width: 50vh;
+    width: 80%;
+    background-color: #bbffff;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.banner{
+    width: 100%;
+    background-image: url('https://t4.ftcdn.net/jpg/14/92/49/03/360_F_1492490370_E7lm2fD5b7QiTwNDB0cKKGStDyYQDInc.jpg');
+    background-size: cover;
+    background-position: center;
+    background-size: 100px 100px;
+    height: 21vh;
+    box-shadow: 2px 2px 5px 2px #ff00ff;
+}
+#banner-propic{
+    background-image: url('kai.png');   
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    width: 20vh;
+    height: 20vh;
+    position: absolute;
+    top: 10vh;
+    left: 10vh;
+    box-shadow: 2px 2px 5px 2px #ff00ff;
+}
+#banner-name{
+    position: absolute;
+    top: 25vh;
+    left: 32vh;
+    font-size: 2em;
+    color: #000000;
+}
+.post-container{ overflow: hidden;
+    width: 50%;
+    margin: auto;
+    margin-top: 10vh;
+}
+#post-area{
+    width: 100%;
+    resize: none;
+    box-sizing: border-box;
+    border-radius: 50px;
+    padding: 1em 1em;
+}
+#post-btn{
+    margin: 1em auto;
+    width: 100%;
+}
+.post{
+    width: 100%;
+    border: solid .5px;
+    border-color: blue;
+    border-radius: 15px;
+    margin: .2em auto;
+    box-sizing: border-box;
+    padding: .5em;
+    border-radius: 5px;
+    color: #000000;
+    box-shadow: 2px 2px 5px 2px #ff00ff;
+}
+.post-content{
+    width: 100%;
+    border: solid 2px;
+    border-color: black;
+    border-radius: 15px;
+    margin: .2em auto;
+    box-sizing: border-box;
+    padding: .5em;
+    border-radius: 5px;
+    color: #337777;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.timeline-container{
+    background-image: url('https://img.freepik.com/free-vector/technology-face-circuit-diagram-background_1017-18300.jpg?semt=ais_rp_50_assets&w=740&q=80');
+    position: relative;
+    margin: 1em auto;
+    min-height: 40vh;
+    min-width:50vh;
+    width: 60%;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px 2px pink;
+    padding: 2em;
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/db/dbconnect.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/models/load_all_post.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/models/add_post.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/models/load_account_posts.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/models/login_account.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/models/logout_account.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/models/register_account.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/views/res/style.css</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/views/footer.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/views/header.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/index.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/login.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/profile.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/timeline.php</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/views/res/kai.png</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/views/res/desktop.ini</file>
+            <file>file:/C:/main.xampp/htdocs/socmed_heraldeze/views/res/Picture1.png</file>
+        </group>
+    </open-files>
+</project-private>
